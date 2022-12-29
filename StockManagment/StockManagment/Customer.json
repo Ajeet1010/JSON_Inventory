@@ -1,0 +1,27 @@
+[
+  {
+    "StockName": "IBM",
+    "StockPrice": 900,
+    "NoOfShares": 145
+  },
+  {
+    "StockName": "DataNova",
+    "StockPrice": 410,
+    "NoOfShares": 652
+  },
+  {
+    "StockName": "Cocubes",
+    "StockPrice": 852,
+    "NoOfShares": 145
+  },
+  {
+    "StockName": "Infosys",
+    "StockPrice": 757,
+    "NoOfShares": 69
+  },
+  {
+    "StockName": "TATA",
+    "StockPrice": 1000,
+    "NoOfShares": 456
+  }
+]
