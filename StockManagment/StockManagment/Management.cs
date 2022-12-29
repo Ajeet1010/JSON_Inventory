@@ -14,6 +14,7 @@ namespace StockManagment
         List<Details> customer = new List<Details>();
         public void ReadStockJsonFile(string filePath)
         {
+            var json = File.ReadAllText(filePath);
             this.stock = JsonConvert.DeserializeObject<List<Details>>(json);
             Console.WriteLine("StockName  StockPrice  NoOfShares");
             foreach (var content in stock)
