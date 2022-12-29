@@ -1,0 +1,44 @@
+{
+  {
+    "TypeOfRice": [
+      {
+        "name": "Double",
+        "weight": 25,
+        "price": 750
+      },
+      {
+        "name": "Basmati",
+        "weight": 20,
+        "price": 1080
+      }
+    ]
+  },
+  {
+    "TypeOfPulses": [
+      {
+        "name": "Urad",
+        "weight": 2,
+        "price": 160
+      },
+      {
+        "name": "Arhar",
+        "weight": 1,
+        "price": 90
+      }
+    ]
+  },
+  {
+    "TypeOfWheat": [
+      {
+        "name": "Normal",
+        "weight": 4,
+        "price": 80
+      },
+      {
+        "name": "Jwar",
+        "weight": 4,
+        "price": 160
+      }
+    ]
+  }
+}

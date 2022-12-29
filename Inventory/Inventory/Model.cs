@@ -12,5 +12,9 @@ namespace Inventory
             public string Name { get; set; }
             public int Weight { get; set; }
             public int priceperkg { get; set; }
+
+            public List<Model> TypesOfRice { get; set; }
+            public List<Model> TypesOfWheat { get; set; }
+            public List<Model> TypesOfPulses { get; set; }
         }
 }
